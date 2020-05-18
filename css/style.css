@@ -1,0 +1,24 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+a.theme-selector:hover {
+  text-decoration: blink;
+}
+.col-lg {
+  padding-top: 0.5rem; 
+  padding-bottom: 0.7rem;
+}
+.smaller-font {
+  font-size: 0.7rem;
+}
+.larger-font {
+  font-size: 1.125rem;
+}
+.linklist-el {
+  padding-left: 0.5rem;
+}
